@@ -8,6 +8,6 @@ nginx
 mysql
 registry
 zabbix
-centos
+centos7.9
 myos
 hello world
