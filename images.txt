@@ -7,9 +7,4 @@ busybox
 nginx
 registry
 zabbix
-centos7.9
-myos
-hello world
-oracle
-sql server
 mysql
