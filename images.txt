@@ -8,3 +8,5 @@ nginx
 mysql
 registry
 zabbix
+centos
+myos
