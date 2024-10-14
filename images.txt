@@ -5,7 +5,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 busybox
 nginx
-mysql
 registry
 zabbix
 centos7.9
