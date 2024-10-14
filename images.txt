@@ -11,3 +11,4 @@ zabbix
 centos7.9
 myos
 hello world
+oracle
