@@ -10,3 +10,4 @@ registry
 zabbix
 centos
 myos
+hello world
